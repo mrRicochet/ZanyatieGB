@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\bin\Debug\net7.0\Zadacha_6.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\bin\Debug\net7.0\Zadacha_6.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\bin\Debug\net7.0\Zadacha_6.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\bin\Debug\net7.0\Zadacha_6.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\bin\Debug\net7.0\Zadacha_6.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\refint\Zadacha_6.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\Zadacha_6.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 1. Знакомство с языком программирования С#\Задача\Zadacha_6\Zadacha_6\obj\Debug\net7.0\ref\Zadacha_6.dll
