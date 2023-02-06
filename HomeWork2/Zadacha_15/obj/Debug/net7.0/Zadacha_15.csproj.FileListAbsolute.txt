@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\bin\Debug\net7.0\Zadacha_15.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\bin\Debug\net7.0\Zadacha_15.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\bin\Debug\net7.0\Zadacha_15.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\bin\Debug\net7.0\Zadacha_15.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\bin\Debug\net7.0\Zadacha_15.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\refint\Zadacha_15.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\Zadacha_15.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 2. Базовые алгоритмы\HomeWork2\Zadacha_15\obj\Debug\net7.0\ref\Zadacha_15.dll
