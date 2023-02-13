@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\bin\Debug\net7.0\29.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\bin\Debug\net7.0\29.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\bin\Debug\net7.0\29.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\bin\Debug\net7.0\29.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\bin\Debug\net7.0\29.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\refint\29.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\29.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 4. Функции\Homework4\29\obj\Debug\net7.0\ref\29.dll
