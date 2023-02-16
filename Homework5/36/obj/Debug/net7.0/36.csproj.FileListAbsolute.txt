@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\bin\Debug\net7.0\36.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\bin\Debug\net7.0\36.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\bin\Debug\net7.0\36.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\bin\Debug\net7.0\36.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\bin\Debug\net7.0\36.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\refint\36.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\36.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Homework5\36\obj\Debug\net7.0\ref\36.dll
