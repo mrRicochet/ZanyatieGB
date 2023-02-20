@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\bin\Debug\net7.0\43.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\bin\Debug\net7.0\43.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\bin\Debug\net7.0\43.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\bin\Debug\net7.0\43.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\bin\Debug\net7.0\43.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\refint\43.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\43.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 6\Homework6\43\obj\Debug\net7.0\ref\43.dll
