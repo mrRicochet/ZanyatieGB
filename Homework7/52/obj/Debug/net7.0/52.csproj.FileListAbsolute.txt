@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\bin\Debug\net7.0\52.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\bin\Debug\net7.0\52.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\bin\Debug\net7.0\52.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\bin\Debug\net7.0\52.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\bin\Debug\net7.0\52.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\refint\52.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\52.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 7\Homework7\52\obj\Debug\net7.0\ref\52.dll
