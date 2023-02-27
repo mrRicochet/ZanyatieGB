@@ -1,0 +1,15 @@
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\bin\Debug\net7.0\60.exe
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\bin\Debug\net7.0\60.deps.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\bin\Debug\net7.0\60.runtimeconfig.json
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\bin\Debug\net7.0\60.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\bin\Debug\net7.0\60.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.csproj.AssemblyReference.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.AssemblyInfoInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.AssemblyInfo.cs
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.csproj.CoreCompileInputs.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\refint\60.dll
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.pdb
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\60.genruntimeconfig.cache
+D:\Downloads\GeekBrains Обучение\Знакомство с языками программирования (семинары)\Урок 8\Homework8\60\obj\Debug\net7.0\ref\60.dll
