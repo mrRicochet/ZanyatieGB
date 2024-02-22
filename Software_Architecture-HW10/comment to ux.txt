@@ -1,0 +1,1 @@
+Add navigation bar to ux, work on other pages that are still not done
