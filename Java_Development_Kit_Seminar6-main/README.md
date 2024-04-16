@@ -1,6 +1,6 @@
 ﻿# Java Development Kit (семинары)
 
-![picture for project](https://raw.githubusercontent.com/mrRicochet/ZanyatieGB/Java_Development_Kit_Seminar6/main/src/main/resources/maxresdefault.jpg)
+![picture for project](https://github.com/mrRicochet/ZanyatieGB/blob/main/Java_Development_Kit_Seminar6-main/src/main/resources/maxresdefault.jpg)
 
 ## Урок 6. Управление проектом: сборщики проектов
 
