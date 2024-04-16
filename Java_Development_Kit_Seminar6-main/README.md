@@ -161,4 +161,6 @@ public class MontyHallGame {
 Помимо вывода статистики в консоль, результаты также сохраняются в файл (два файла, локально, с соответствующими названиями).
 
 
-Все работает корректно, согласно задания.
+Все работает корректно, согласно задания:
+
+![work is correct](https://github.com/mrRicochet/ZanyatieGB/blob/main/Java_Development_Kit_Seminar6-main/src/main/resources/2024-02-24_19-57-28.png)
