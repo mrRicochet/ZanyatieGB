@@ -4,7 +4,7 @@
 
 ## Урок 5. Тонкости работы
 
-[к решению 1 ЗАДАЧИ](https://github.com/mrRicochet/ZanyatieGB/tree/main/Java_core_seminar5#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1)  ||  [к решению 2 ЗАДАЧИ](https://github.com/mrRicochet/ZanyatieGB/tree/main/Java_core_seminar5#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)  ||  [перейти в папку Java](https://github.com/mrRicochet/ZanyatieGB/Java_core_seminar5/tree/main/src/main/java)
+[к решению 1 ЗАДАЧИ](https://github.com/mrRicochet/ZanyatieGB/tree/main/Java_core_seminar5#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1)  ||  [к решению 2 ЗАДАЧИ](https://github.com/mrRicochet/ZanyatieGB/tree/main/Java_core_seminar5#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2)  ||  [перейти в папку Java](https://github.com/mrRicochet/ZanyatieGB/tree/main/Java_core_seminar5/src/main/java)
 
 
 ### Задача 1.
