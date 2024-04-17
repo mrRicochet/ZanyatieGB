@@ -10,10 +10,10 @@
 
 ### Файлы кода
 
-[class Client](https://github.com/mrRicochet/ZanyatieGB/tree/main/blob/main/src/main/java/org/example/Client.java)
+[class Client](https://github.com/mrRicochet/ZanyatieGB/blob/main/Java-Junior-5-main/Java-Junior-5/src/main/java/org/example/Client.java)
 Клиентское приложение для общения с сервером.
 
-[class Server](https://github.com/mrRicochet/ZanyatieGB/tree/main/blob/main/src/main/java/org/example/Server.java)
+[class Server](https://github.com/mrRicochet/ZanyatieGB/blob/main/Java-Junior-5-main/Java-Junior-5/src/main/java/org/example/Server.java)
 Серверное приложение для общения с клиентами.
 
 ### Результат в консоли
